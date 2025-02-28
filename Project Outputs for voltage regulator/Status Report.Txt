@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [voltage regulator.PrjPcb]
+   Generated File[voltage reg.GTO]
+   Generated File[voltage reg.GTP]
+   Generated File[voltage reg.GTS]
+   Generated File[voltage reg.GTL]
+   Generated File[voltage reg.GBL]
+   Generated File[voltage reg.GBS]
+   Generated File[voltage reg.GBP]
+   Generated File[voltage reg.GBO]
+   Generated File[voltage reg.GM]
+   Generated File[voltage reg.EXTREP]
+   Generated File[voltage reg.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 07:53:43 On 09-01-2025
